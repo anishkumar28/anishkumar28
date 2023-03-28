@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Kumar</h1>
-<h3 align="center">A CSE Somphore who loves exploring new fields.</h3>
+<h3 align="center">A CSE Enthusiast who loves exploring new fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishkumar6527&label=Profile%20views&color=0e75b6&style=flat" alt="anishkumar6527" /> </p>
 
