@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **nextjs, firebase**
 
-- 💬 Ask me about **app developer, flutter , firebase**
+- 💬 Ask me about **app development, flutter , firebase**
 
 - 📫 How to reach me **anishkumar6527@gmail.com**
 
