@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter & Firebase<br>👯 I’m looking to collaborate on Flutter Applicationst<br>🌱 I’m currently learning FireStore and API Integrations<br>💬 Ask me about App Development and Web Development<br>📄 Know about my experiences https://drive.google.com/drive/folders/1JBbImVj_2qAg1WSCV3CNHA-PDYhsH5wo?usp=sharing
+🔭 I’m currently working on Flutter & Firebase<br>👯 I’m looking to collaborate on Flutter Apps<br>🌱 I’m currently learning FireStore and API Integrations<br>💬 Ask me about App Development and Web Development<br>📄 Know about my experiences https://drive.google.com/drive/folders/1JBbImVj_2qAg1WSCV3CNHA-PDYhsH5wo?usp=sharing
 
 
 ## 🌐 Socials:
