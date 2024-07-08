@@ -1,4 +1,4 @@
-[![Gmail Badge](https://img.shields.io/badge/anishkumar6527@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:anishkumar6527@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/anishkumar6527@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:anishkumar1618@outlook.com)
 
 # 💫 About Me:
 🔭 I’m currently working on Javascript & React<br>👯 I’m looking to collaborate on Open Source & Web dev projects<br>🌱 I’m currently learning FireStore and API Integrations<br>💬 Ask me about Web Development and Open Source<br>📄 Know about my experiences https://drive.google.com/drive/folders/1JBbImVj_2qAg1WSCV3CNHA-PDYhsH5wo?usp=sharing
