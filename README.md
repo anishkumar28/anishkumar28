@@ -1,7 +1,7 @@
 [![Gmail Badge](https://img.shields.io/badge/anishkumar1618@outlook.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:anishkumar1618@outlook.com)
 
 # 💫 About Me:
-🔭 I’m currently working on ExpressJS & ReactJS<br>👯 I’m looking to collaborate on Open Source & Web dev projects<br>🌱 I’m currently learning FireStore and API Integrations<br>💬 Ask me about Web Development and Open Source<br>📄 Know about my experiences https://drive.google.com/drive/folders/1JBbImVj_2qAg1WSCV3CNHA-PDYhsH5wo?usp=sharing
+🔭 I’m currently working on ExpressJS & ReactJS<br>👯 I’m looking to collaborate on Open Source & Web dev projects<br>🌱 I’m currently learning API Integrations and Performance Optimizations in WebApps<br>💬 Ask me about Web Development and Backned Development<br>📄 Know about my experiences https://drive.google.com/drive/folders/1JBbImVj_2qAg1WSCV3CNHA-PDYhsH5wo?usp=sharing
 
 
 ## 🌐 Socials:
